@@ -1,0 +1,5 @@
+transformers
+streamlit
+pillow
+torch
+requests
